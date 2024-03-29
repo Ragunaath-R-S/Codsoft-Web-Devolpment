@@ -1,4 +1,7 @@
-Codsoft Internship-Web Development Sucessfully completed internship with using html,css and javascript Task 1:- PORTFOLIO PAGE
+Codsoft Internship-Web Development
+Sucessfully completed internship with using the following Frontend like html,css and javascript 
+
+Task 1:- PORTFOLIO PAGE
 
 Creating a personal portfolio using CSS and HTML is a popular beginner web development project. Header Section: Add your name or a logo at the top. Optionally, include a brief introduction or tagline. About Section: Insert an image of yourself. Write a short bio highlighting your skills and experience. Skills Section: List your key skills or areas of expertise. Projects Section: Showcase samples of your work or projects. Include project titles, descriptions, and images. Contact Section: Include your contact information, such as email address and phone number. Footer: Add a copyright notice and any additional links or information.
 
